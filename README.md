@@ -3,7 +3,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/Parasayte/Car-racing?color=darkblue&style=plastic)](https://github.com/Parasayte/Car-racing/commits)
 [![Stars](https://img.shields.io/github/stars/Parasayte/Car-racing?color=%23800080&style=plastic)](https://github.com/Parasayte/Car-racing/stargazers)
 
-# Simple Car Racing Game     [![C# Project](https://img.shields.io/badge/Csharp-Project-%23200020?style=plastic)](https://www.python.org/)
+# Simple Car Racing Game     [![C# Project](https://img.shields.io/badge/Csharp-Project-%23200020?style=plastic)
 
 A fun and straightforward car racing game where you race against an enemy car using random speeds. The first to reach 5 points wins the game!
 
