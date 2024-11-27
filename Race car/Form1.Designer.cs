@@ -58,8 +58,7 @@
             this.playerCar.Name = "playerCar";
             this.playerCar.Size = new System.Drawing.Size(103, 73);
             this.playerCar.TabIndex = 0;
-            this.playerCar.Text = "🚙";
-            this.playerCar.Click += new System.EventHandler(this.label1_Click);
+            this.playerCar.Text = "🏎";
             // 
             // timer1
             // 
@@ -77,7 +76,7 @@
             this.enemyCar.Name = "enemyCar";
             this.enemyCar.Size = new System.Drawing.Size(103, 73);
             this.enemyCar.TabIndex = 1;
-            this.enemyCar.Text = "🚗";
+            this.enemyCar.Text = "🏎";
             // 
             // SpeedLabel
             // 
@@ -156,7 +155,7 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Impact", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(-4, -41);
+            this.label5.Location = new System.Drawing.Point(21, -78);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(41, 731);
             this.label5.TabIndex = 8;
@@ -167,7 +166,7 @@
             this.finishLine.AutoSize = true;
             this.finishLine.Font = new System.Drawing.Font("Impact", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.finishLine.ForeColor = System.Drawing.Color.White;
-            this.finishLine.Location = new System.Drawing.Point(22, -191);
+            this.finishLine.Location = new System.Drawing.Point(-12, -185);
             this.finishLine.Name = "finishLine";
             this.finishLine.Size = new System.Drawing.Size(41, 731);
             this.finishLine.TabIndex = 9;
