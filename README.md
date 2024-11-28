@@ -14,8 +14,8 @@ A fun and straightforward car racing game where you race against an enemy car us
 
 ## Screenshot 📸
 
-![gif](https://i.imgur.com/HeN1NfG.gif)
-![screenshot](https://i.imgur.com/ZY5xkYk.png)
+![gif](https://i.imgur.com/m6ANMhy.gif)
+![screenshot](https://i.imgur.com/yWxcbwm.png)
 
 
 ## Installation 🔧
